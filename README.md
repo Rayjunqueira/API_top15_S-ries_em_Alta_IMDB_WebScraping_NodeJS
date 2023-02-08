@@ -22,6 +22,7 @@ git clone https://github.com/Rayjunqueira/API_top15_S-ries_em_Alta_IMDB_WebScrap
 ```
 2 - Crie uma pasta .env na raiz do projeto
 3 - Cole o link URL = https://www.imdb.com/chart/tvmeter/?ref_=nv_tvv_mptv
+
 4 - Instale os pacotes npm
 ```
 npm install
